@@ -2,6 +2,9 @@
 This is a repository where I will keep my publicly available slide decks for reference. 
 
 # Azure Policy.NET User Group Links:
+Slides:
+- https://github.com/Joshua-Donovan/Slides/blob/main/Azure%20Policy%20.NET%20User%20Group.pdf
+
 Policy Concepts and Docs:
 - https://learn.microsoft.com/en-us/azure/governance/policy/concepts/definition-structure
 - https://learn.microsoft.com/en-us/azure/governance/policy/concepts/effects
