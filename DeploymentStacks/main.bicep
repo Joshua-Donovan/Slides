@@ -321,7 +321,7 @@ resource vm2 'Microsoft.Compute/virtualMachines@2022-03-01' = {
     securityProfile: ((securityType == 'TrustedLaunch') ? securityProfileJson : null)
   }
 }
-resource vmExtension 'Microsoft.Compute/virtualMachines/extensions@2022-03-01' = if ((securityType == 'TrustedLaunch') && ((securityProfileJson.uefiSettings.secureBootEnabled == true) && (securityProfileJson.uefiSettings.vTpmEnabled == true))) {
+resource vmExtension1 'Microsoft.Compute/virtualMachines/extensions@2022-03-01' = if ((securityType == 'TrustedLaunch') && ((securityProfileJson.uefiSettings.secureBootEnabled == true) && (securityProfileJson.uefiSettings.vTpmEnabled == true))) {
   parent: vm1
   name: extensionName
   location: location
