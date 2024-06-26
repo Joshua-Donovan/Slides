@@ -1,6 +1,7 @@
 ```[tasklist]
-- [ ] Review Bicep File Deployment
-- In VSCODE
+### My tasks
+- [ ] https://github.com/octo-org/octo-repo/issues/45
+- [ ] Draft task
 ```
 
 # Deploy Virtual Machine the classic way
