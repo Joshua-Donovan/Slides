@@ -1,4 +1,4 @@
-* [ ] Review Bicep File Deployment
+- [ ] Review Bicep File Deployment
 - In VSCODE
 
 # Deploy Virtual Machine the classic way
