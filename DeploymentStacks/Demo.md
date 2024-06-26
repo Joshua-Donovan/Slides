@@ -4,6 +4,15 @@
 - [ ] Draft task
 ```
 
+<div>
+  <input type="checkbox" name="uchk">
+  <label for="uchk">Unchecked.</label>
+</div>
+<div>
+  <input type="checkbox" name="chk" checked>
+  <label for="chk">Checked.</label>
+</div>
+
 # Deploy Virtual Machine the classic way
 ```bash
 az group create --name RegularDeploymentsRG --location southcentralus --output none
