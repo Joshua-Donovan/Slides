@@ -1,3 +1,4 @@
+```[tasklist]
 - [ ] Review Bicep File Deployment
 - In VSCODE
 
@@ -50,3 +51,4 @@ done
 # Admin Tasked with Saving Money (DENIED), and also denied deleting the resource group
 
 # Clean Up Resources using stacks
+```
